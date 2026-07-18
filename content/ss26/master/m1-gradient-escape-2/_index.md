@@ -12,7 +12,7 @@ subtitle = "The same misty forest. A whole new journey."
 claim = "Step back into the gradient world, where every path is a mathematical challenge. Explore and uncover the logic behind gradient functions through an immersive adventure—now enhanced with adaptive guidance and a richer learning experience."
 
 # Properties for displaying the project in the project list
-card_image = "assets/MainScreen.png"
+card_image = "assets/mainscreen.png"
 
 # Names are optional, team size is sufficient
 team = ["Alex", "Ha My", "Krist", "Lukas", "Nic", "Undine"]
