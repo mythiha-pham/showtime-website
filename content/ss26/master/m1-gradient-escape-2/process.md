@@ -4,7 +4,7 @@ title = "Process"
 weight =3
 # only draft = false will be visible on the page. 
 # use hugo --buildDrafts to see your drafts.
-draft = true
+draft = false
 +++
 
 {{<section title="How we work as a team">}}

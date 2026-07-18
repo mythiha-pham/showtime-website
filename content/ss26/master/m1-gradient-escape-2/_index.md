@@ -35,7 +35,7 @@ Gradient Escape 2 builds upon the original [Gradient Escape](https://showtime.f4
 {{</section>}}
 
 {{<section title="The Team">}}
-Gradient Escape 2 is developed by a team of six Master’s students, organized into a Product Team and a Programming Team. Both teams work in a coordinated weekly rhythm, meeting on separate days: the Product Team reviews design decisions and user feedback, while the Programming Team reviews implementation progress. Communication between the teams is maintained to ensure that design changes and technical constraints are addressed early rather than discovered late.
+Our team consists of six Master's students, organized into a Product Team and a Programming Team. Both teams work in a coordinated weekly rhythm, meeting on separate days: the Product Team reviews design decisions and user feedback, while the Programming Team reviews implementation progress. Communication among us is maintained to ensure that design changes and technical constraints are addressed early rather than discovered late.
 
 The Product Team is responsible for the game’s design and learning objectives, including game and level design, the didactic concept, project management, testing, and quality assurance.
 

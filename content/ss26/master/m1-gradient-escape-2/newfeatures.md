@@ -4,7 +4,7 @@ title = "New Features"
 weight = 2
 # only draft = false will be visible on the page. 
 # use hugo --buildDrafts to see your drafts.
-draft = true
+draft = false
 +++
 
 {{<section title="What Changed">}}
