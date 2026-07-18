@@ -31,7 +31,7 @@ website_link = ""
 +++
 
 {{<section title="Our Goal">}}
-Gradient Escape 2 builds upon the original [Gradient Escape](https://showtime.f4.htw-berlin.de/ws25/master/m1-gradient-escape/), keeping its core goal of teaching gradient functions through an interactive journey in a mysterious forest. The sequel adds a competency model and an adaptive feedback system, so the game not only teaches the concept but tracks how well each player is understanding it. Gameplay and the UI were also reworked to fix issues from the original.
+Gradient Escape 2 builds upon the original [Gradient Escape](https://showtime.f4.htw-berlin.de/ws25/master/m1-gradient-escape/), keeping its core goal of teaching gradient functions through an interactive journey in a mysterious forest. We want to intergrate a competency model and an adaptive feedback system into the game, so it not only teaches the concept but tracks how well each player is understanding it. Gameplay and the UI were also reworked to fix issues from the original.
 {{</section>}}
 
 {{<section title="The Team">}}
@@ -44,8 +44,8 @@ The Programming Team is responsible for the technical implementation of the game
 
 {{<gallery>}}
 {{<team-member image="assets/avatar.png" name="Alex">}}
-{{<team-member image="assets/avatar.png" name="Ha My">}}
-{{<team-member image="assets/avatar.png" name="Krist">}}
+{{<team-member image="assets/hamy.jpg" name="Ha My">}}
+{{<team-member image="assets/krist.jpg" name="Krist" >}}
 {{<team-member image="assets/avatar.png" name="Lukas">}}
 {{<team-member image="assets/avatar.png" name="Nic">}}
 {{<team-member image="assets/avatar.png" name="Undine">}}

@@ -42,8 +42,8 @@ The day before each meeting with the professor, we prepare a build containing th
 
 Beyond the weekly check-ins, the game goes through two larger testing rounds with public testers:
 
-1. **Early round** — focused on concept clarity and basic usability
-2. **Later round** — focused on polish and learning outcomes
+- **Early round** — focused on concept clarity and basic usability
+- **Later round** — focused on polish and learning outcomes
 
 Issues coming out of both the weekly and larger testing rounds are triaged into priority tiers:
 

@@ -7,7 +7,7 @@ weight = 2
 draft = false
 +++
 
-{{<section title="What Changed">}}
+{{<section title="What changed">}}
 
 - **User-centered UI**  
   Redesigned based on feedback from the professor and public testers, making core information like the gradient map easier to read at a glance. 
