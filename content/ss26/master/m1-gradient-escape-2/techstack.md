@@ -5,7 +5,7 @@ draft = false
 +++
 
 {{<section title="What we used">}}
-{{<image src="assets/tools.png" alt="Alt text">}}
+{{<image src="assets/tools.png" alt="tools">}}
 
 ## Asset creation
 **[Krita](https://krita.org/)** — Used for creating game assets, including new HUD elements and other visual designs.

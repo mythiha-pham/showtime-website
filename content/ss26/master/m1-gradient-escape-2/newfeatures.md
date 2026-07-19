@@ -10,11 +10,11 @@ draft = false
 {{<section title="What changed">}}
 
 - **User-centered UI**  
-  Redesigned based on feedback from the professor and public testers, making core information like the gradient map easier to read at a glance. 
+  Redesigned based on feedback from the professor and public testers, making core information like the gradient map easier to read at a glance.{{<image src="assets/redesign.png" alt="new UI">}}
 - **Adaptive feedback system**  
   Tracks player behavior and responds with targeted, context-sensitive feedback instead of generic hints.
 - **Five new levels**  
-  The game introduces a new twist on the core mechanic rather than simply increasing difficulty.
+  The game introduces a new twist on the core mechanic rather than simply increasing difficulty, such as treasure-hunt mechanic, or multi-phase level structure.
 - **Varied map environments**  
   Each level shifts the setting through different weather conditions, color palettes, and lighting, keeping the forest visually distinct from one level to the next.
 - **Narrative character**  
