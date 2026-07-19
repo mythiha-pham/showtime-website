@@ -47,8 +47,8 @@ The Programming Team is responsible for the technical implementation of the game
 {{<team-member image="assets/alex.jpg" name="Alex">}}
 {{<team-member image="assets/hamy.jpg" name="Ha My">}}
 {{<team-member image="assets/krist.jpg" name="Krist" >}}
-{{<team-member image="assets/avatar.png" name="Lukas">}}
+{{<team-member image="assets/lukas.jpg" name="Lukas">}}
 {{<team-member image="assets/nic.jpg" name="Nic">}}
-{{<team-member image="assets/avatar.png" name="Undine">}}
+{{<team-member image="assets/undine.jpg" name="Undine">}}
 {{</gallery>}}
 

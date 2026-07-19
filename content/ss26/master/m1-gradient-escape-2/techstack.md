@@ -4,7 +4,7 @@ weight = 4
 draft = false
 +++
 
-{{<section title="What we used">}}
+{{<section title="What we use">}}
 {{<image src="assets/tools.png" alt="tools">}}
 
 ## Asset creation
