@@ -41,7 +41,7 @@ Beyond the weekly check-ins, the game goes through two larger testing rounds wit
 - **Early round** — focused on concept clarity and basic usability
 - **Later round** — focused on polish and learning outcomes
 
-To make it easier for testers to give feedback during these sessions, we added an in-game QR code that players can scan directly while playing. Scanning it opens a Google Form, so testers can share their thoughts right away without breaking their playtesting flow. Their responses are then exported to Google Sheets, where we go through the feedback and prioritize the issues that matter most. {{<image src="assets/qr.png" alt="QR" caption="In-game QR code">}}
+To make it easier for testers to give feedback during these sessions, we added an in-game QR code that players can scan directly while playing. Scanning it opens a Google Form, so testers can share their thoughts right away without breaking their playtesting flow. Their responses are then exported to Google Sheets, where we go through the feedback and prioritize the issues that matter most. Here's the [link to the survey](https://docs.google.com/forms/d/e/1FAIpQLSe0q3OcvkZr2uSU7DPf_jBlL5Fti6VKtBYnO3KnWM8o2a-Rzw/viewform) used for our testing rounds.
 
 Issues coming out of both the weekly and larger testing rounds are triaged into priority tiers:
 
